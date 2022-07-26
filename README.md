@@ -9,7 +9,7 @@ Projects were completed using:
 
 
 ## Projects
-### Facility Use and Membership
+### [Facility Use and Membership](https://github.com/bbastron/SQL-Data-Analysis-Projects/blob/main/facility_analysis.sql)
 An analysis of the use of facilities, membership costs, and member data to:
 * Determine which facilities are most popular among members
 * Compare membership costs between facilities
