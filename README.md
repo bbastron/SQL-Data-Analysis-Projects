@@ -1,4 +1,4 @@
-# SQL-Data-Analysis-Projects
+# sql_data_analysis
 Completed exercises and assessment tests from the Udemy course "The Complete SQL Bootcamp 2022: Go from Zero to Hero", by Jose Portilla.
 
 
