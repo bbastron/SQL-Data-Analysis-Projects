@@ -21,3 +21,9 @@ Analyzed the use of facilities, membership costs, and member data to:
 * Compare membership costs between facilities
 * Extract details on specific facilities and members to gain further insights
 
+### [Conditional Expressions and Operators exercise](https://github.com/bbastron/sql_data_analysis/blob/main/conditional_expressions.sql)
+Learned how to:
+* Apply conditional statements using CASE
+* Handle null values using COALESCE and IFNULL
+* Convert data types using CAST
+* Create views for future use
